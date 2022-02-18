@@ -53,4 +53,23 @@ console.log(resposta)
 
      console.log(outrosDados)
 
+// exer
+
+     let minhaArea(10,20) 
+      
+   
+   prompt=10*20
+   //exercii
+   const a = 3
+   const b = 5
+   const soma = a + b
+   console.log(soma)
+   
+
+   
+
+   
+
+
+
 
