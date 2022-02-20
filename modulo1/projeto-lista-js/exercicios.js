@@ -76,42 +76,69 @@ let toUpperCase("fruta")
 // EXERCÍCIO 07
 function calculaIngressosEspetaculo(custo, valorIngresso) {
   // implemente sua lógica aqui
-
+const custo= 3000
+const ingresso= 100
+const(custo/ingresso)
+console.log(quantos ,ingresso)
 }
-
 // EXERCÍCIO 08
 function checaStringsMesmoTamanho(string1, string2) {
   // implemente sua lógica aqui
+const string1= "teste"
+const string2= "portão"
+const ("string1 !== string2")
+
 
 }
 
 // EXERCÍCIO 09
 function retornaPrimeiroElemento(array) {
   // implemente sua lógica aqui
+const lista[1,2,3]
+const lista=[0]
+
+
 
 }
 
 // EXERCÍCIO 10
 function retornaUltimoElemento(array) {
   // implemente sua lógica aqui
+const lista=[1,2,3,4,5]
+const lista = retornaUltimoElemento[4]
+
 
 }
 
 // EXERCÍCIO 11
 function trocaPrimeiroEUltimo(array) {
   // implemente sua lógica aqui
+const lista=[1,2,3,4,5]
+const pop(0,4) 
+
+const lenght(4,0)
 
 }
 
 // EXERCÍCIO 12
 function checaIgualdadeDesconsiderandoCase(string1, string2) {
   // implemente sua lógica aqui
-
+const string1=bananinha
+const string2=BANANINHA
+const ("string1 ! toUpperCase = string2)
 }
 
 // EXERCÍCIO 13
 function checaRenovacaoRG() {
   // implemente sua lógica aqui
+const anoAtual=2020 
+const anoDeNascimento=2000
+const anoDaEmissaoRg=2015
+const anoAtual= prompt("digite anoAtual")
+const anoDeNascimento= prompt("digite anoDeNascimento")
+Const anoEmissaoRg=prompt("digite anoEmissaoRg")
+
+
 
 }
 
