@@ -69,9 +69,10 @@ const pessoa2 = {
     apelido1:["Bia" , "Triz","Bet"
 }
 function novaArray(apelido){
+	
     console.log =[apelido.amanda.length]
 
-
+}
 
   
 
