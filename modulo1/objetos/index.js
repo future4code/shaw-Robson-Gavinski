@@ -51,11 +51,44 @@ const pessoa = {
   backender: false
 }
 
-console.log(minhaFuncao(pessoa, "backender"))
-console.log(minhaFuncao(pessoa, "altura"))
+console.log(minhaFuncao(pessoa, "backender")) //false
+console.log(minhaFuncao(pessoa, "altura")) // undefinede
 //a) O que vai ser impresso no console?
 
 //b) Explique o valor impresso no console. Você sabe por que isso aconteceu?
+// não foi definido a altura por isso que deu esse resultado ou acrescentado na função
+
+//- **Exercícios de escrita de código** 4
+ 
+const pessoa1 = {
+    nome: "Amanda", 
+    apelidos2: ["Amandinha", "Mandinha", "Mandi"] ,}
+
+const pessoa2 = {
+    nome: "Beatriz",
+    apelido1:["Bia" , "Triz","Bet"
+}
+function novaArray(apelido){
+    console.log =[apelido.amanda.length]
+
+
+
+  
+
+
+
+
+
+
+
+
+ }
+
+
+
+
+
+
 
 
 
