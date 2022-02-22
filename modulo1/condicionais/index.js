@@ -51,16 +51,16 @@ console.log("O preço da fruta ", fruta, " é ", "R$ ", preco)
 //c) c) Considere que um usuário queira comprar uma Pêra,
 // qual seria a mensagem impressa no console se 
 // retirássemos o break que está logo acima
- //do default (o break indicado pelo comentário "BREAK PARA O ITEM c.")?
+//do default (o break indicado pelo comentário "BREAK PARA O ITEM c.")?
 // se retirar break voltaria para preço anterior e teve reajuste
 //
 //EXERCICIO 3
 
 const numero = Number(prompt("Digite o primeiro número."))
 
-if(numero > 0) {
+if (numero > 0) {
   console.log("Esse número passou no teste")
-	let mensagem = "Essa mensagem é secreta!!!"
+  let mensagem = "Essa mensagem é secreta!!!"
 }
 
 console.log(mensagem)
@@ -73,6 +73,23 @@ console.log(mensagem)
 // -10 > 0 nao é maior que zero
 
 //c) Haverá algum erro no console? Justifique usando os conceitos de bloco ou escopo.
+
+//teve um erro foi no bloco 
+
+//EXERCICIO 1
+//Exercícios de escrita de código
+
+const usuario = (prompt("Qual sua idade"))
+
+console, log("usuario")
+const idade = Number("qual sua idade")
+function{
+  co
+}
+
+
+
+
 
 
 
