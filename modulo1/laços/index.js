@@ -41,10 +41,22 @@ while(quantidadeAtual < quantidadeTotal){
 //exercicio de escrita
 
 
-const bichinhos = Number(prompt("Quantos bichinhos você tem: "))
+let quantBichinhos = Number(prompt("Quantos bichinhos você tem: "))
+let nomeBicho =[]
 
-    
+if (quantBicho === 0){ 
 
+  console.log("Que pena, adote um bichinho!")  
+}
+   else{ 
+    for(let i = 0; i < quantBichinhos; i++){ 
+   let nome = prompot("Qual o nome do seu bicho")
+   nomeBicho.push(nome)
+
+      }
+
+   }  
+console.log(nomeBichos)
 
 
 
