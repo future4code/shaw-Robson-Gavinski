@@ -13,7 +13,7 @@
 // nova array map
 
 
-   /*  const usuarios = [
+     /*const usuarios = [
     { nome: "Amanda Rangel", apelido: "Mandi" },
     { nome: "Laís Petra", apelido: "Laura" },
     { nome: "Letícia Chijo", apelido: "Chijo" },
@@ -53,11 +53,10 @@
     { nome: "Fluffy", raca: "Poodle"},
     { nome: "Caramelo", raca: "Vira-lata"},
   ]
-const nomeDosDoguinho =[]
-const doguinho = pets.map((pet) =>{
-const pets = nome 
-  return pets.nome === nomeDosDoguinho
+  const pet = nome.map((item, index, array) => {
+      return item.nome
+  
 })
 
-console.log([pets])
+console.log(novoArray)
 
